@@ -1,3 +1,3 @@
 # congenial-fortnight
 
-README GOES HERE
+README
